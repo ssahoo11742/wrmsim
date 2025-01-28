@@ -1,6 +1,23 @@
 # Wormhole simulation
+![image](https://github.com/user-attachments/assets/c23dd21c-ee2b-4507-8f40-d8dd697ea20c)
 
-Experience the space time curvature and strange lensing effects of a 3D wormhole in your browser.
+
+simulating the space time curvature and strange lensing effects of a 3D wormhole in your browser.
+
+Demo link: https://astonishing-donut-635527.netlify.app/
+
+## Images
+![image](https://github.com/user-attachments/assets/1752997b-55a2-486b-8d87-68f953ae029e)
+![image](https://github.com/user-attachments/assets/d4e56ea8-f756-4bec-9bcb-1aaef0281653)
+![image](https://github.com/user-attachments/assets/8d841e70-3ce5-4759-a4cd-83c4e8718896)
+
+
+## Tech Stack
+- TypeScript
+- ThreeJS
+- GLSL
+- HTML
+- Space Engine
 
 ## Mathematical details
 
